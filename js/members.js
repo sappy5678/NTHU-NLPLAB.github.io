@@ -284,7 +284,7 @@ const members = {
             img: 'img/isaac.jpg',
             color: 'green',
             intro: '史帝夫和戴夫都使用eToro投資金融市場',
-            link: 'https://www.facebook.com/isaac.0625',
+            link: 'https://isaac0625.github.io/',
         },
         {
             name: '郭芝瑜',
