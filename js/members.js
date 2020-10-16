@@ -366,6 +366,15 @@ const members = {
             intro: 'Whole Foods, Whole People, Whole Planet.',
             link: '',
         },
+        {
+            name: '吳岱儒',
+            alias: 'Stanley',
+            research: '#',
+            img: 'img/fb.jpg',
+            color: 'brown',
+            intro: 'QQ',
+            link: '',
+        }
     ],
     'undergraduates': [
         // {
