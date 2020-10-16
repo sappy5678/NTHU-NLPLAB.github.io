@@ -358,6 +358,14 @@ const members = {
             link: '',
         },
         {
+            name: '黃麟凱',
+            alias: 'Jeff',
+            research: '#',
+            img: 'img/jeff.jpg',
+            color: 'orange',
+            intro: '每天都是一種練習',
+        },
+        {
             name: '李冠霖',
             alias: 'Simon',
             research: 'WSD, Reading Comprehension',
