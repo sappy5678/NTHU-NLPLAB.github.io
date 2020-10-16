@@ -378,7 +378,7 @@ const members = {
         {   name: '程筱珺',
             alias: 'diane',
             research: '#',
-            img: 'diane.jpg',
+            img: 'img/diane.jpg',
             color: 'blue',
             intro: 'ʕ•ᴥ•ʔ',
             link: '',
