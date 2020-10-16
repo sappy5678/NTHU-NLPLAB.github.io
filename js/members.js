@@ -366,6 +366,15 @@ const members = {
             intro: 'Whole Foods, Whole People, Whole Planet.',
             link: '',
         },
+	{
+	    name: '許靜媛',
+            alias: 'Caty',
+            research: '#',
+            img: 'img/jy.jpg',
+            color: 'blue',
+            intro: '同意啦，哪次不同意',
+            link: '',
+	}
     ],
     'undergraduates': [
         // {
