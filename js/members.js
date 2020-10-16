@@ -366,6 +366,15 @@ const members = {
             intro: 'Whole Foods, Whole People, Whole Planet.',
             link: '',
         },
+        {
+            name: '黃麟凱',
+            alias: 'Jeff',
+            research: '#',
+            img: 'img/jeff.jpg',
+            color: 'orange',
+            intro: '每天都是一種練習',
+            link: '',
+        },
     ],
     'undergraduates': [
         // {
