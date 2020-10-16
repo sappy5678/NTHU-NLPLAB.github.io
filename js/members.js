@@ -391,6 +391,14 @@ const members = {
             intro: 'ʕ•ᴥ•ʔ',
             link: '',
         },
+        {   name: '吳㛢慈',
+            alias: 'joanna',
+            research: '#',
+            img: 'img/joanna.png',
+            color: 'blue',
+            intro: 'It\'s not a bug; it\'s a FEATURE.¯\\_(ツ)_/¯',
+            link: '',
+        }
     ],
     'undergraduates': [
         // {
