@@ -366,6 +366,23 @@ const members = {
             intro: '奇怪的成員增加了！',
             link: 'https://www.youtube.com/watch?v=oHg5SJYRHA0',
         },
+        {
+            name: '許靜媛',
+            alias: 'Caty',
+            research: '#',
+            img: 'img/jy.jpg',
+            color: 'blue',
+            intro: '同意啦，哪次不同意',
+            link: '',
+        },
+        {   name: '程筱珺',
+            alias: 'diane',
+            research: '#',
+            img: 'diane.jpg',
+            color: 'blue',
+            intro: 'ʕ•ᴥ•ʔ',
+            link: '',
+        },
     ],
     'undergraduates': [
         // {
