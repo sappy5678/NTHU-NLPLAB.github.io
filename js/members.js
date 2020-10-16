@@ -93,16 +93,7 @@ const members = {
             color: 'grey',
             intro: 'Elmo, Lemon, Elmon',
             link: '',
-         },
-         {
-            name: '李冠霖',
-            alias: 'Simon',
-            research: '',
-            img: 'img/simon.jpg',
-            color: 'grey',
-            intro: '奇怪的成員增加了！',
-            link: '',
-         },
+         }
     ],
     'ms-students': [
         // {
@@ -365,6 +356,15 @@ const members = {
             color: 'brown',
             intro: 'Whole Foods, Whole People, Whole Planet.',
             link: '',
+        },
+        {
+            name: '李冠霖',
+            alias: 'Simon',
+            research: 'WSD, Reading Comprehension',
+            img: 'img/simon.jpg',
+            color: 'grey',
+            intro: '奇怪的成員增加了！',
+            link: 'https://www.youtube.com/watch?v=oHg5SJYRHA0',
         },
     ],
     'undergraduates': [
