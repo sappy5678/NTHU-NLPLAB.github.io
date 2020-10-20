@@ -358,12 +358,22 @@ const members = {
             link: '',
         },
         {
+            name: '吳岱儒',
+            alias: 'Stanley',
+            research: '#',
+            img: 'img/Stanley.png',
+            color: 'brown',
+            intro: 'QQ',
+            link: '',
+        },
+        {
             name: '黃麟凱',
             alias: 'Jeff',
             research: '#',
             img: 'img/jeff.jpg',
             color: 'orange',
             intro: '每天都是一種練習',
+            link: '',
         },
         {
             name: '李冠霖',
